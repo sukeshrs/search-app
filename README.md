@@ -2,11 +2,11 @@
 
 ### Getting Started
 
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start the app 
 
 ```
 > git clone https://github.com/sukeshrs/search-app.git
-> cd ReduxSimpleStarter
+> cd search-app
 > npm install
 > npm start
 ```
