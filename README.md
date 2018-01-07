@@ -12,6 +12,5 @@ Checkout this repo, install dependencies, then start the app
 ```
 
 
-> npm install
-> npm start
+
 ```
